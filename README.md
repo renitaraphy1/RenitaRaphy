@@ -70,9 +70,9 @@ Bachelors in Computer Application
 
 ## Contact
 
-- Email: jijojose95@gmail.com
-- LinkedIn: [John Doe](https://www.linkedin.com/)
-- GitHub: [github.com/yourusername](https://github.com/)
+- Email: renitaraphy@gmail.com 
+- LinkedIn: [Renita Raphy](https://www.linkedin.com/in/renita-raphy-124303211/)
+- Phone: 07748065179
 
 ---
 
