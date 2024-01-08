@@ -10,7 +10,7 @@ Technical Support Engineer | Backup Admin
 
 -	Hands-on experience in data protection tools: Dell NetWorker, DataDomain, TapeLibraries, VMWare vCentre, Data Encryption, Disaster recovery planning and testing, Data Protection Advisor.
 -	Project Management tools: Salesforce365, ServiceNow, Salesforce Lightning, Cisco WebEx
--	Programming Languages: Java, C++, SQL, HTML
+-	Programming Languages: Java, SQL, HTML
 -	Working knowledge of: Commvault, rubrik, Veam
 -	Operating Systems: Android, Windows and Linux
 
@@ -40,7 +40,7 @@ Technical Support Engineer | Backup Admin
 -	     Ensure delivery excellence by assisting the team to resolve issues proactively, and thereby maintain high Customer satisfaction (CSAT) score.
 -	     Adhered to SLA’s, focused on providing quick, timely and permanent solutions.
 -	    Assisted colleagues in my shift with resolving the technical issues and did ‘heat checks’ to get the feedback of customers. 
--	    Managed the shift assigned to me and ensured there were no escalations
+-	    Managed the shift assigned to me and ensured there were no escalations.
 -	    Worked on NetWorker module for Microsoft(NMM), NetWorker data management protocol(NDMP), NetWorker module for databases and applications(NMDA) and vProxies. 
 -	    Created KB articles when encountered with new issues. 
 
@@ -60,11 +60,10 @@ Bachelors in Computer Application
 
 ---
 
-## Portfolio
+## Soft Skills
 
-- [Project 1: Portfolio Website](https://github.com/)
-- [Project 2: React Blog App](https://github.com/)
-- [Project 3: Node.js REST API](https://github.com/)
+- In my current role as a part-time retail receptionist at Wren Kitchens, I've had the opportunity to elevate my customer service and communication skills within a sales-oriented environment, a shift from my previous experience in the IT sector. This experience has provided me with valuable insights and honed my abilities in adapting to a dynamic retail setting in UK.
+- I was elected for the role of class representative for my M.Sc. Computing cohort at the University of Northampton. In this capacity, I developed leadership skills by advocating for the opinions and concerns of my classmates during student voice meetings.
 
 ---
 
