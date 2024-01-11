@@ -10,7 +10,7 @@ Technical Support Engineer | Backup Admin
 
 -	Hands-on experience in data protection tools: Dell NetWorker, DataDomain, TapeLibraries, VMWare vCentre, Data Encryption, Disaster recovery planning and testing, Data Protection Advisor.
 -	Project Management tools: Salesforce365, ServiceNow, Salesforce Lightning, Cisco WebEx
--	Programming Languages: Java, C++, SQL, HTML
+-	Programming Languages: Java, SQL, HTML
 -	Working knowledge of: Commvault, rubrik, Veam
 -	Operating Systems: Android, Windows and Linux
 
@@ -40,7 +40,7 @@ Technical Support Engineer | Backup Admin
 -	     Ensure delivery excellence by assisting the team to resolve issues proactively, and thereby maintain high Customer satisfaction (CSAT) score.
 -	     Adhered to SLA’s, focused on providing quick, timely and permanent solutions.
 -	    Assisted colleagues in my shift with resolving the technical issues and did ‘heat checks’ to get the feedback of customers. 
--	    Managed the shift assigned to me and ensured there were no escalations
+-	    Managed the shift assigned to me and ensured there were no escalations.
 -	    Worked on NetWorker module for Microsoft(NMM), NetWorker data management protocol(NDMP), NetWorker module for databases and applications(NMDA) and vProxies. 
 -	    Created KB articles when encountered with new issues. 
 
@@ -60,19 +60,47 @@ Bachelors in Computer Application
 
 ---
 
-## Portfolio
+## Soft Skills
 
-- [Project 1: Portfolio Website](https://github.com/)
-- [Project 2: React Blog App](https://github.com/)
-- [Project 3: Node.js REST API](https://github.com/)
+- In my current role, as a part-time retail receptionist at Wren Kitchens, I've had the opportunity to elevate my customer service and communication skills within a sales-oriented environment, a shift from my previous experience in the IT sector. This experience has provided me with valuable insights and honed my abilities in adapting to a dynamic retail setting in UK.
+- I was elected for the role of class representative for my M.Sc. Computing cohort at the University of Northampton. In this capacity, I developed leadership skills by advocating for the opinions and concerns of my classmates during student voice meetings.
 
 ---
 
-## Contact
+## Awards
 
-- Email: jijojose95@gmail.com
-- LinkedIn: [John Doe](https://www.linkedin.com/)
-- GitHub: [github.com/yourusername](https://github.com/)
+- Best Technical support engineer Award 2020Best Technical support engineer Award 2020
+Issued by wipro · Jun 2020
+- Catapult L2 CertifiedCatapult L2 Certified
+Issued by wipro
+---
+
+## Certifications
+
+- ISM (Infrastructure and Storage Management) Certified
+Issued by DELL EMC
+- AWS Certified Cloud Practitioner (CLF-C01) Cert Prep: 1 Cloud Concepts
+Issued by LinkedIn
+- Catapult L2 Certified
+Issued by Wipro
+- ITIL Foundation certified
+---
+
+## What am I looking for ?
+
+I am actively seeking job or placement opportunities in the IT sector. I have a particular interest in roles as a Data Protection Engineer or as an IT Technical Customer Support Engineer. My enthusiasm lies in the intersection of technical customer support and data protection, and I am eager to showcase and  contribute my skills and passion in these areas, that I have gained through the years to a dynamic professional environment. With sound knowledge and experience in the backup and recovery concepts, I can confidently pick up on the new Data protection tools that get introduced in the sector. 
+---
+
+## My Process
+When it comes to work, professionalism is at the very core for me. Troubleshooting technical issues until it resolves, is what I have been keen on. I have proven to be detail-oriented and a collaborative team player during my days as L1 and L2 technical support engineer. 
+As a L2 technical support engineer, I've also had to play the role of a pseudo team lead during peak time, and the feedback I've often received is as 'approachable', 'knows to maintain the calm, during peak and busy hours', 'maintains the same high standards and professionalism  even when under pressure'.
+Ability to communicate effectively with all levels of technical proficiency, incorporating industry level email and phone and in-person etiquettes. 
+Creativity and emotional intelligence have also always been a significant contribution to my overall work pattern
+
+## Contact
+- Email: renitaraphy@gmail.com 
+- LinkedIn: [Renita Raphy](https://www.linkedin.com/in/renita-raphy-124303211/)
+- Phone: 07748065179
 
 ---
 
